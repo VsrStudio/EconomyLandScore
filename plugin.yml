@@ -1,0 +1,7 @@
+name: EconomyLandScore
+main: VsrStudio\EconomyLandScore\EconomyLandScore
+version: 1.0.0
+api: [5.0.0]
+author: VsrStudio
+depend: [EconomyLand, ScoreHud]
+description: Plugin to display land names on ScoreHud.
