@@ -11,8 +11,8 @@
 ## Requirements
 
 - PocketMine-MP API 5.0.0 or higher
-- **EconomyLand** plugin
-- **ScoreHud** plugin
+- **[EconomyLand](https://github.com/ACM-PocketMine-MP/EconomyLand)** plugin
+- **[ScoreHud](https://github.com/Ifera/ScoreHud)** plugin
 
 ## Configuration
 
@@ -23,3 +23,7 @@ scoreboard:
   title: "Land Info"
   lines:
     - "Land: {economyland.score}"
+```
+```yaml
+{economyland.score}
+```
